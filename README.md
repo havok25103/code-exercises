@@ -24,5 +24,5 @@
 
 ## Test
 
-- `cd ./<mm-dd-yyyy>`
+- `cd ./<month>/<mm-dd-yyyy>`
 - `bundle exec rspec test.rb`
