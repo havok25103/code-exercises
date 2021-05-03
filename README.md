@@ -36,4 +36,5 @@
 | 03-29-2021 | Data Structures | String compression of repeated characters |
 | 03-30-2021 | Data Structures | Partition a linked list around a given index |
 | 04-05-2021 | Data Structures | Build a stack that gives an O(1) runtime for push, pop, and minimum value in the stack |
-| 03-06-2021 | Trees | Check if a given binary tree is balanced |
+| 04-06-2021 | Trees | Check if a given binary tree is balanced |
+| 04-26-2021 | Strings | Check if a string is a permutation of a palindrome |
